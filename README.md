@@ -17,7 +17,7 @@
 
 这篇文章就是写给你的。
 
-本文会尽量用小白能看懂的方式，把 ChatGPT Plus、ChatGPT Pro、Codex、Gemini Pro / Google AI Pro 的会员购买、充值方式、适合人群、支付问题、风险提醒、常见报错和售后注意事项一次讲清楚。
+本文会尽量用小白能看懂的方式，把 ChatGPT Plus、ChatGPT Pro、Codex、Gemini Pro / Google AI Pro 的会员购买、充值方式、适合人群、支付问题、风险提醒、常见报错和售后注意事项一次讲清楚。[购买入口](https://nf.video/YmYHQ)  
 
 如果你只是想快速开通会员，不想折腾海外银行卡、虚拟信用卡、美国账单地址、App Store 礼品卡、Google Play 地区限制，可以直接查看本文的「推荐方案」部分。购买时可以使用优惠码 `abc888`，输入后可额外享受 95 折优惠。
 
