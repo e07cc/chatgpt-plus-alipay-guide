@@ -21,7 +21,7 @@
 
 如果你只是想快速开通会员，不想折腾海外银行卡、虚拟信用卡、美国账单地址、App Store 礼品卡、Google Play 地区限制，可以直接查看本文的「推荐方案」部分。购买时可以使用优惠码 `abc888`，输入后可额外享受 95 折优惠。
 
-> 重要说明：本文是用户视角的购买与充值经验整理，不代表 OpenAI、Google 或 Gemini 官方。ChatGPT、OpenAI、Codex、Gemini、Google AI 等名称和商标归对应公司所有。具体价格、模型权限、地区可用性和使用额度，请以官方页面和你账号内显示为准。
+> 重要说明：本文是用户视角的购买与充值经验整理，不代表 OpenAI、Google 或 Gemini 官方。ChatGPT、OpenAI、Codex、Gemini、Google AI 等名称和商标归对应公司所有。具体价格、模型权限、地区可用性和使用额度，请以官方页面和你账号内显示为准。[购买入口](https://nf.video/YmYHQ) 
 
 ![2026 最新 ChatGPT Plus / Pro 与 Gemini 会员购买充值教程封面](image/chatgpt.png)
 
@@ -106,7 +106,7 @@ ChatGPT Plus 官方订阅通常需要支持国际支付的银行卡或其他受�
 
 ### 5. 不知道代充、直充、共享账号有什么区别
 
-搜索「ChatGPT 代充」的人，大多不是想钻空子，而是想解决一个很朴素的问题：
+[购买入口](https://nf.video/YmYHQ) 搜索「ChatGPT 代充」的人，大多不是想钻空子，而是想解决一个很朴素的问题：
 
 > 我没有海外支付方式，但我想用自己的 ChatGPT 账号开通 Plus 或 Pro，有没有更简单的办法？
 
@@ -150,7 +150,7 @@ Plus 通常适合：
 - 需要文件分析、图片生成、语音、联网搜索等功能的人
 - 编程学习者和轻中度开发者
 
-如果你只是个人使用，ChatGPT Plus 往往是最常见、最划算的选择。
+如果你只是个人使用，ChatGPT Plus 往往是最常见、最划算的选择。[购买入口](https://nf.video/YmYHQ) 
 
 ### ChatGPT Pro
 
@@ -194,7 +194,7 @@ Gemini 更适合：
 - 需要长上下文处理的人
 - 需要和 Google 工具配合办公的人
 
-如果你平时更依赖 Google 生态，可以考虑 Gemini Pro / Google AI Pro；如果你更常用 ChatGPT、Codex、GPT 模型和 OpenAI 工具，则优先考虑 ChatGPT Plus 或 Pro。
+如果你平时更依赖 Google 生态，可以考虑 Gemini Pro / Google AI Pro；如果你更常用 ChatGPT、Codex、GPT 模型和 OpenAI 工具，则优先考虑 ChatGPT Plus 或 Pro。[购买入口](https://nf.video/YmYHQ) 
 
 ---
 
@@ -266,7 +266,7 @@ Gemini 更适合：
 
 ### 推荐自助充值而不是共享账号
 
-请注意：自助充值和共享账号不是一回事。
+请注意：自助充值和共享账号不是一回事。[购买入口](https://nf.video/YmYHQ) 
 
 自助充值的目标是帮你自己的账号开通会员；共享账号是很多人共用一个账号。
 
@@ -355,7 +355,7 @@ Gemini 更适合：
 - ChatGPT Pro
 - Gemini Pro
 
-新手最容易买错的是把 API 额度当成 ChatGPT Plus。API 是开发者调用接口用的，不等于 ChatGPT 网页会员。
+新手最容易买错的是把 API 额度当成 ChatGPT Plus。API 是开发者调用接口用的，不等于 ChatGPT 网页会员。[购买入口](https://nf.video/YmYHQ) 
 
 ### 第五步：用支付宝付款
 
@@ -490,7 +490,7 @@ Gemini 的优势通常在于 Google 生态整合、长上下文处理和办公�
 - 到账时间
 - 售后规则
 
-如果页面只写「GPT 会员」「AI 会员」「高级账号」，但不说清楚是什么，建议谨慎。
+如果页面只写「GPT 会员」「AI 会员」「高级账号」，但不说清楚是什么，建议谨慎。[购买入口](https://nf.video/YmYHQ) 
 
 ### 2. 是否支持支付宝正规付款
 
@@ -640,7 +640,7 @@ Gemini Pro / Google AI Pro 可能更顺手。
 
 ## 充值前必须注意的账号安全事项
 
-无论你买 ChatGPT Plus、ChatGPT Pro 还是 Gemini Pro，都建议先做好账号安全。
+无论你买 ChatGPT Plus、ChatGPT Pro 还是 Gemini Pro，都建议先做好账号安全。[购买入口](https://nf.video/YmYHQ) 
 
 ### 1. 使用自己的账号
 
@@ -941,7 +941,7 @@ Plus 更适合普通个人用户，价格更低，功能已经很完整。Pro �
 - 第三方自助购买：可能需要手动续费
 - App Store / Google Play：一般在对应订阅中心管理
 
-购买前一定要看清楚。
+购买前一定要看清楚。[购买入口](https://nf.video/YmYHQ) 
 
 ---
 
