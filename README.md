@@ -23,6 +23,8 @@
 
 > 重要说明：本文是用户视角的购买与充值经验整理，不代表 OpenAI、Google 或 Gemini 官方。ChatGPT、OpenAI、Codex、Gemini、Google AI 等名称和商标归对应公司所有。具体价格、模型权限、地区可用性和使用额度，请以官方页面和你账号内显示为准。
 
+![2026 最新 ChatGPT Plus / Pro 与 Gemini 会员购买充值教程封面](image/chatgpt.png)
+
 ---
 
 ## 目录
@@ -240,7 +242,7 @@ Gemini 更适合：
 
 推荐入口如下：
 
-> 购买入口：`https://nf.video/YmYHQ`  
+> 购买入口：[https://nf.video/YmYHQ](https://nf.video/YmYHQ)  
 > 优惠码：`abc888`，下单时输入可额外 95 折  
 > 支持服务：ChatGPT Plus、ChatGPT Pro、Gemini Pro / Google AI Pro、Codex 相关账号咨询  
 > 支付方式：支付宝  
@@ -314,7 +316,7 @@ Gemini 更适合：
 
 打开下面这个购买入口：
 
-`https://nf.video/YmYHQ`
+[https://nf.video/YmYHQ](https://nf.video/YmYHQ)
 
 下单时如果页面有优惠码输入框，填写：
 
@@ -444,7 +446,7 @@ Gemini 的优势通常在于 Google 生态整合、长上下文处理和办公�
 
 购买入口：
 
-`https://nf.video/YmYHQ`
+[https://nf.video/YmYHQ](https://nf.video/YmYHQ)
 
 优惠码：
 
@@ -955,7 +957,7 @@ Plus 更适合普通个人用户，价格更低，功能已经很完整。Pro �
 6. 不要买共享账号；
 7. 不要把账号密码随便发给别人；
 8. 不要贪明显不合理的低价；
-9. 通过 `https://nf.video/YmYHQ` 下单时，记得输入优惠码 `abc888`；
+9. 通过 [https://nf.video/YmYHQ](https://nf.video/YmYHQ) 下单时，记得输入优惠码 `abc888`；
 10. 保留订单和支付记录；
 11. 所有模型、额度、价格和开放范围，以官方和账号内显示为准。
 
@@ -973,7 +975,7 @@ Plus 更适合普通个人用户，价格更低，功能已经很完整。Pro �
 
 ## 联系与购买
 
-- ChatGPT Plus / Pro / Gemini 会员购买入口：`https://nf.video/YmYHQ`
+- ChatGPT Plus / Pro / Gemini 会员购买入口：[https://nf.video/YmYHQ](https://nf.video/YmYHQ)
 - 支付方式：支付宝
 - 优惠码：`abc888`
 - 优惠说明：购买时输入优惠码 `abc888`，可额外享受 95 折优惠
